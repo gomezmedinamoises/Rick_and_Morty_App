@@ -1,8 +1,8 @@
-package com.mgomezm.rickandmortyapp
+package com.mgomezm.rickandmortyapp.model
 
 import com.google.gson.annotations.SerializedName
 
-data class Location(
+data class Origin(
     @SerializedName("name")
     val name: String = "",
     @SerializedName("url")
