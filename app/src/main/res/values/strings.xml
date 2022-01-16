@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rick and Morty App</string>
+    <string name="created">Created</string>
+    <string name="gender">Gender</string>
+    <string name="id">ID</string>
+    <string name="full_name">Full name</string>
+    <string name="species">Species</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="url">URL</string>
+    <string name="origin">Origin</string>
+</resources>
